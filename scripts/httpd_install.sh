@@ -1,2 +1,2 @@
 #!/bin/bash
-apt install httpd -y
+apt install appache2 -y

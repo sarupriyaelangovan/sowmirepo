@@ -1,3 +1,3 @@
 #!/bin/bash
-systemctl start httpd
-systemctl enable httpd
+systemctl start appache2
+systemctl enable appache2
